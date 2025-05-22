@@ -212,4 +212,3 @@ Then go to [Tailscale Admin Console](https://login.tailscale.com/admin/machines)
 | Tailscale OAuth Secrets     | Provided via Secret Manager          |
 | ExternalSecret              | Syncs Tailscale secrets into K8s     |
 | Helm-based Operator Install | Uses synced secrets at runtime       |
-# gke-tailscale-operator
